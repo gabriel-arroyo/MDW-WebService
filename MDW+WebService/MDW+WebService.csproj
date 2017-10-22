@@ -286,6 +286,7 @@
     <Compile Include="Controllers\GPIOController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MDWAccountController.cs" />
+    <Compile Include="Controllers\PrintersController.cs" />
     <Compile Include="Controllers\PrintQueueController.cs" />
     <Compile Include="Controllers\StatusController.cs" />
     <Compile Include="Controllers\TagsController.cs" />
